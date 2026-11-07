@@ -38,10 +38,10 @@ visual result was the proof.
 **Build:** `1.0.0`, RootHide `iphoneos-arm64e`
 
 **Rootless deb:** `builds/com.burc334.carrierhider_1.0.0_iphoneos-arm64.deb`
-SHA-256: `20ebf8003bbf36ddfdb4ce16dc12cddffd995bad8c7b9dedc591c95e4d794880`
+SHA-256: `79e4daa2204755c5833f6c777a2be361d3a714e11e77bd0fa73a28498239a87c`
 
 **RootHide deb:** `builds/com.burc334.carrierhider_1.0.0_iphoneos-arm64e.deb`
-SHA-256: `6338fdf8d9393286d6f4f859d72675f04a6657ce3cb3976a9fa89e72ae73d8b4`
+SHA-256: `21c2a06628f55090fcabf5eb1d368d5f68c8439901ea984903bff41d1effeaa9`
 
 Installed on 2026-11-06 over the probe, remote hash matched, SpringBoard
 respringed. The user approved publication of the final build.
@@ -59,6 +59,6 @@ respringed. The user approved publication of the final build.
 ## Final hashes
 
 ```text
-20ebf8003bbf36ddfdb4ce16dc12cddffd995bad8c7b9dedc591c95e4d794880  com.burc334.carrierhider_1.0.0_iphoneos-arm64.deb
-6338fdf8d9393286d6f4f859d72675f04a6657ce3cb3976a9fa89e72ae73d8b4  com.burc334.carrierhider_1.0.0_iphoneos-arm64e.deb
+79e4daa2204755c5833f6c777a2be361d3a714e11e77bd0fa73a28498239a87c  com.burc334.carrierhider_1.0.0_iphoneos-arm64.deb
+21c2a06628f55090fcabf5eb1d368d5f68c8439901ea984903bff41d1effeaa9  com.burc334.carrierhider_1.0.0_iphoneos-arm64e.deb
 ```

@@ -1,6 +1,10 @@
-# Carrier Hider
+<p align="center">
+  <img src="docs/icon.png" width="160" alt="Carrier Hider icon">
+</p>
 
-**Carrier Hider is a rootless iOS 18 jailbreak tweak that hides the carrier name in the status bar while keeping signal and network indicators.**
+<h1 align="center">Carrier Hider</h1>
+
+<p align="center"><strong>Carrier Hider is a rootless iOS 18 jailbreak tweak that hides the carrier name in the status bar while keeping signal and network indicators.</strong></p>
 
 - Package: `com.burc334.carrierhider`
 - Version: `1.0.0`

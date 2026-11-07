@@ -1,7 +1,7 @@
 {
   "class": "DepictionTabView",
   "minVersion": "0.1",
-  "tintColor": "#0A84FF",
+  "tintColor": "#C2410C",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -29,12 +29,12 @@
         {
           "class": "DepictionTableTextView",
           "title": "RootHide",
-          "text": "iphoneos-arm64e · tested on iOS 18.4.1 (Dopamine 3)"
+          "text": "iphoneos-arm64e \u00b7 tested on iOS 18.4.1 (Dopamine 3)"
         },
         {
           "class": "DepictionTableTextView",
           "title": "Rootless",
-          "text": "iphoneos-arm64 · expected on iOS 18+ rootless jailbreaks"
+          "text": "iphoneos-arm64 \u00b7 expected on iOS 18+ rootless jailbreaks"
         },
         {
           "class": "DepictionMarkdownView",
