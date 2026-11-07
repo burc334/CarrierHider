@@ -4,7 +4,6 @@
 #import <substrate.h>
 
 static NSString *(*CHOrigCellularString)(id, SEL);
-static NSString *(*CHOrigCellularCrossfadeString)(id, SEL);
 
 static NSString *CHCellularString(id self, SEL _cmd) {
     if (CHOrigCellularString) {
@@ -55,8 +54,6 @@ static void CHInitialize(void) {
         CHInstallHook("STStatusBarDataCellularEntry",
                       "crossfadeString",
                       (IMP)CHCellularCrossfadeString,
-                      (IMP *)&CHOrigCellularCrossfadeString);
-
-        (void)CHOrigCellularCrossfadeString;
+                      NULL);
     }
 }

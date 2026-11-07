@@ -1,6 +1,6 @@
 Package: com.burc334.carrierhider
 Name: Carrier Hider
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Description: Hides the carrier name in the iOS status bar while keeping signal and network indicators.
 Depiction: https://burc334.github.io/CarrierHider/
