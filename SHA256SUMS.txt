@@ -1,0 +1,2 @@
+20ebf8003bbf36ddfdb4ce16dc12cddffd995bad8c7b9dedc591c95e4d794880  com.burc334.carrierhider_1.0.0_iphoneos-arm64.deb
+6338fdf8d9393286d6f4f859d72675f04a6657ce3cb3976a9fa89e72ae73d8b4  com.burc334.carrierhider_1.0.0_iphoneos-arm64e.deb
